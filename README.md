@@ -28,4 +28,10 @@ METRICS(MEAN INTERSECTION OVER UNION) = <YET TO FIND>
 
 LINK: https://colab.research.google.com/drive/1vgUjdiRbzqW-n73onClzJjEIbapi7njc?usp=sharing
 
+
+<h3>RESULTS</h3>
+<img src="https://github.com/BhavyaShah1234/road-image-segmentation/blob/main/Output1.png">
+
+<img src="https://github.com/BhavyaShah1234/road-image-segmentation/blob/main/Output2.png">
+
 Please upvote if found this useful.
